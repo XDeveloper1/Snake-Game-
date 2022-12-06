@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import turtle
 import random
  
@@ -134,10 +128,5 @@ screen.onkey(go_left, "Left")
  
 reset()
 turtle.done()
-
-
-# In[ ]:
-
-
 
 
